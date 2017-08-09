@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/drawable/images/bj.png</file>
+        <file>res/drawable/images/gametest.png</file>
+        <file>res/drawable/images/gametest_focus.png</file>
+        <file>res/drawable/images/infoextend.png</file>
+        <file>res/drawable/images/infoextend_focus.png</file>
+        <file>res/drawable/images/logo.png</file>
+        <file>res/drawable/images/positiontest.png</file>
+        <file>res/drawable/images/positiontest_focus.png</file>
+        <file>res/drawable/images/speedtest.png</file>
+        <file>res/drawable/images/speedtest_focus.png</file>
+        <file>res/drawable/images/titleclose.png</file>
+        <file>res/drawable/images/titlemax.png</file>
+        <file>res/drawable/images/titlemenu.png</file>
+        <file>res/drawable/images/titlemini.png</file>
+        <file>res/drawable/images/troublecheck.png</file>
+        <file>res/drawable/images/troublecheck_focus.png</file>
+        <file>res/drawable/images/websitetest.png</file>
+        <file>res/drawable/images/websitetest_focus.png</file>
+        <file>res/drawable/images/wifitest.png</file>
+        <file>res/drawable/images/wifitest_focus.png</file>
+        <file>res/drawable/images/ic_cancel_icon.png</file>
+        <file>res/drawable/images/ic_capture_icon.png</file>
+        <file>res/drawable/images/ic_about_me.png</file>
+        <file>res/drawable/images/ic_back_icon.png</file>
+        <file>res/drawable/images/ic_brush_icon.png</file>
+        <file>res/drawable/images/ic_chicun_icon.png</file>
+        <file>res/drawable/images/ic_erease_icon.png</file>
+        <file>res/drawable/images/ic_copy_imagevie.png</file>
+        <file>res/drawable/images/ic_save_another.png</file>
+        <file>res/drawable/images/ic_close_icon.png</file>
+        <file>res/drawable/images/ic_save_icon.png</file>
+        <file>res/drawable/images/ic_divider.png</file>
+        <file>res/drawable/images/ic_type_select.png</file>
+        <file>res/drawable/images/ic_font_icon.png</file>
+        <file>res/drawable/images/ic_drap_down_list.png</file>
+        <file>res/drawable/images/ic_drop_down_icon.png</file>
+        <file>res/drawable/images/ic_font_color.png</file>
+        <file>res/drawable/images/ic_maxmum_icon.png</file>
+        <file>res/drawable/images/ic_minimum_icon.png</file>
+        <file>res/drawable/images/ic_configuration_icon.png</file>
+    </qresource>
+</RCC>

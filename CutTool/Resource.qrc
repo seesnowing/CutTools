@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>App/Frame/Base/appbasewidget.cpp</file>
+        <file>App/Frame/Base/appbasewidget.h</file>
+        <file>App/Frame/NetUtils/HttpCallBack.h</file>
+        <file>App/Frame/NetUtils/httputils.cpp</file>
+        <file>App/Frame/NetUtils/httputils.h</file>
+        <file>cutmain.cpp</file>
+        <file>cutmain.h</file>
+        <file>main.cpp</file>
+    </qresource>
+</RCC>
